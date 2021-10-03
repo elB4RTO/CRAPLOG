@@ -16,6 +16,6 @@ It's meant to be ran daily.<br>
 <br>
 <br>
 <i><b>"VINTAGE" VERSIONS</b> (older versions, published as proof of work)</i>:<br>
-<i>[1.0]</i> <a href="https://github.com/elB4RTO/craplog-starter">starter</a> <i style="color:grey">{BASH}</i><br>
-<i>[2.0]</i> <a href="https://github.com/elB4RTO/craplog-starterEnhanced">starter enhanced</a> <i style="color:grey">{BASH & C++}</i><br>
+<i>[1.0]</i> <a href="https://github.com/elB4RTO/craplog-origin">origin</a> <i style="color:grey">{BASH}</i><br>
+<i>[2.0]</i> <a href="https://github.com/elB4RTO/craplog-originEnhanced">origin enhanced</a> <i style="color:grey">{BASH & C++}</i><br>
 <br>
