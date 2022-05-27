@@ -1,7 +1,7 @@
 # CRAPLOG
 A tool to create statistics from Apache2 log files 
 
-<br>
+<br/>
 
 ## OFFICIAL VERSIONS
 
@@ -13,7 +13,11 @@ A tool to create statistics from Apache2 log files
 
 *NOTE: All of the **official versions** are up-to-date, the version number is just indicative for the development progress*
 
-<br>
+*IMPORTANT NOTE: significant changes, which affect the way statistics are made and handled, has been made from version **3.\*** to version **5.\***:*
+- *version **3** only uses "yesterday's" logs (\*.log.1 files), it will store statistics by date of execution and is therefore meant to be ran daily*
+- *version **5** can instead use every log file (archived logs included), it will store statistics depending on the date in every single log line and can therefore be used at anytime (once a week, a month, etc), with any number of log files (all in once)*
+
+<br/><br/>
 
 ### ARCHIVED VERSIONS
 *older versions, published to keep track of the developement progress*
