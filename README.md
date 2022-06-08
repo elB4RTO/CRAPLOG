@@ -9,7 +9,7 @@ A tool to create statistics from Apache2 log files
 | :-: | :-- | :-- | :-: |
 | 5.0 | [full GUI](https://github.com/elB4RTO/craplog-fullGUI) | Fully graphical version, improved with more functionalities | ![Java](https://img.shields.io/badge/%20-Java-b07219) |
 | 3.1 | [GUI aided CLI](https://github.com/elB4RTO/craplog-GUIaidedCLI) | Command line version with a graphical launcher | ![Python](https://img.shields.io/badge/%20-Python-3572A5) |
-| 3.0 | [full CLI](https://github.com/elB4RTO/craplog-fullCLI) | Command line version | ![Bash](https://img.shields.io/badge/%20-Bash-89e051) ![Python](https://img.shields.io/badge/%20-Python-3572A5) |
+| 3.0 | [full CLI](https://github.com/elB4RTO/craplog-fullCLI) | Command line version | ![Python](https://img.shields.io/badge/%20-Python-3572A5) |
 
 *NOTE: All of the **official versions** are up-to-date, the version number is just indicative for the development progress*
 
