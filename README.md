@@ -58,6 +58,6 @@ Help wanted to keep it alive.*
 
 Craplog has born in early 2021 as a private project: it was a simple bash script with the aim of cleaning Apache2 logs, but it has evolved up to the current stage.
 
-It is now a more complex, public domain project: it makes statistics, allows to view them, has more advanced features to customize it and the way it behaves, it's available in both a GUI version (written in Java) and a CLI version (written in Python), and it keeps growing (*and being a wonderful boot-camp for me 💪*)
+It is now a more complex, public domain project: it makes statistics, allows to view them, has more advanced features to customize it and the way it behaves, it's available in both a GUI version (written in Java) and a CLI version (written in Python), and it keeps growing.
 
 <br/>
