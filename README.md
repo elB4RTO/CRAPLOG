@@ -1,5 +1,9 @@
 # CRAPLOG
-A tool to create statistics from Apache2 log files 
+A tool to create statistics from Apache2 log files
+
+<br/>
+
+![logo](https://github.com/elB4RTO/CRAPLOG/blob/main/craplogo.png)
 
 <br/>
 
