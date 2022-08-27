@@ -11,6 +11,7 @@ A tool to create statistics from Apache2 log files
 
 - [Overview](#overview)
 - [Official versions](#official-versions)
+  - [Forks](#forks)
 - [Unmantained versions](#unmantained-versions)
 - [Something more about Craplog](#about-craplog)
 
@@ -30,6 +31,14 @@ Please refer to one of the available versions for more informations.
 | :-: | :-----------------------------------------------: | :---------------------- | :-------------------------------------------------------: |
 | 5.0 | [GUI](https://github.com/elB4RTO/craplog-fullGUI) | Fully graphical version | ![Java](https://img.shields.io/badge/%20-Java-b07219)     |
 | 3.0 | [CLI](https://github.com/elB4RTO/craplog-fullCLI) | Command line version    | ![Python](https://img.shields.io/badge/%20-Python-3572A5) |
+
+<br/>
+
+### Forks
+
+| Version | Repository | Description | Coded with |
+| :--: | :-----------------------------------------------: | :---------------------- | :-------------------------------------------------------: |
+| 1.00 | [LogDoctor](https://github.com/elB4RTO/LogDoctor) | Fully graphical version built upon Qt | ![C++](https://img.shields.io/badge/%20-C++-f34b7d)     |
 
 <br/><br/><br/>
 
