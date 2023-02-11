@@ -3,7 +3,7 @@ A tool to create statistics from Apache2 log files
 
 <br/>
 
-![logo](https://github.com/elB4RTO/CRAPLOG/blob/main/craplogo.png)
+![logo](https://raw.githubusercontent.com/elB4RTO/screenshots/main/Craplog/craplogo.png)
 
 <br/>
 
@@ -28,17 +28,16 @@ Please refer to one of the available versions for more informations.
 ## Official versions
 
 | Version | Repository | Description | Coded with |
-| :-: | :-----------------------------------------------: | :---------------------- | :-------------------------------------------------------: |
-| 5.0 | [GUI](https://github.com/elB4RTO/craplog-fullGUI) | Fully graphical version | ![Java](https://img.shields.io/badge/%20-Java-b07219)     |
-| 3.0 | [CLI](https://github.com/elB4RTO/craplog-fullCLI) | Command line version    | ![Python](https://img.shields.io/badge/%20-Python-3572A5) |
+| :-----: | :--------: | :---------- | :--------: |
+| 3.0 | [CLI](https://github.com/elB4RTO/craplog-fullCLI) | Command line version | ![Python](https://img.shields.io/badge/%20-Python-3572A5) |
 
 <br/>
 
 ### Forks
 
 | Version | Repository | Description | Coded with |
-| :--: | :-----------------------------------------------: | :---------------------- | :-------------------------------------------------------: |
-| 1.00 | [LogDoctor](https://github.com/elB4RTO/LogDoctor) | Fully graphical version built upon Qt | ![C++](https://img.shields.io/badge/%20-C++-f34b7d)     |
+| :-----: | :--------: | :---------- | :--------: |
+| 2.* | [LogDoctor](https://github.com/elB4RTO/LogDoctor) | Fully graphical version built upon Qt | ![C++](https://img.shields.io/badge/%20-C++-f34b7d)     |
 
 <br/><br/><br/>
 
@@ -49,7 +48,8 @@ Old versions, which work just fine, but they're no more getting updated to fit n
 ### Outdated versions
 
 | Version | Repository | Description | Coded with |
-| :-: | :-------------------------------------------------------------: | :--------------------------------------------- | :-: |
+| :-: | :------------: | :---------- | :--------: |
+| 5.0 | [GUI](https://github.com/elB4RTO/craplog-fullGUI) | Fully graphical version | ![Java](https://img.shields.io/badge/%20-Java-b07219) |
 | 3.1 | [GUI aided CLI](https://github.com/elB4RTO/craplog-GUIaidedCLI) | Command line version with a graphical launcher | ![Python](https://img.shields.io/badge/%20-Python-3572A5) |
 
 *OUTDATES: Old version of the statistics. Doesn't implement the new features.<br>
@@ -60,7 +60,7 @@ Help wanted to keep it alive.*
 ### Archived versions
 
 | Version | Repository | Description | Coded with |
-| :-: | :------------------------------------------------: | :--------------------------------------------- | :-: |
+| :-----: | :--------: | :---------- | :--------: |
 | 4.0 | [py GUI](https://github.com/elB4RTO/craplog-pyGUI) | Fully graphical version, achieved with Tkinter | ![Python](https://img.shields.io/badge/%20-Python-3572A5) |
 | 2.0 | [origin enhanced](https://github.com/elB4RTO/craplog-originEnhanced) | Original version, enhanced with C++ | ![Bash](https://img.shields.io/badge/%20-Bash-89e051) ![C++](https://img.shields.io/badge/%20-C++-f34b7d) |
 | 1.0 | [origin](https://github.com/elB4RTO/craplog-origin) | Original version | ![Bash](https://img.shields.io/badge/%20-Bash-89e051) |
