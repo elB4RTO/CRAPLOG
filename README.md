@@ -37,7 +37,7 @@ Please refer to one of the available versions for more informations.
 
 | Version | Repository | Description | Coded with |
 | :-----: | :--------: | :---------- | :--------: |
-| 2.* | [LogDoctor](https://github.com/elB4RTO/LogDoctor) | Fully graphical version built upon Qt | ![C++](https://img.shields.io/badge/%20-C++-f34b7d)     |
+| 3.* | [LogDoctor](https://github.com/elB4RTO/LogDoctor) | Fully graphical version built upon Qt | ![C++](https://img.shields.io/badge/%20-C++-f34b7d)     |
 
 <br/><br/><br/>
 
